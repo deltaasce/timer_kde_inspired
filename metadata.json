@@ -1,0 +1,6 @@
+{
+  "name": "Apple-Inspired Modern Timer",
+  "description": "A minimalist, dark-themed timer with Web Audio API chime synthesis, recurring timer mode, circular progress, and Apple design aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
